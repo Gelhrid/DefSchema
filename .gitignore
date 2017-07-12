@@ -6,3 +6,4 @@
 /rest/*.iml
 /rest/target/classes/com/kod/*.class
 /rest/target/test-classes/com/kod/*.class
+/configuration/target/classes
