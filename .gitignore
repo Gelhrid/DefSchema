@@ -1,0 +1,8 @@
+/.idea
+/*.iml
+/configuration/*.iml
+/configuration/target/classes/com/kod/*.class
+/configuration/target/test-classes/com/kod/*.class
+/rest/*.iml
+/rest/target/classes/com/kod/*.class
+/rest/target/test-classes/com/kod/*.class
